@@ -1,2 +1,2 @@
-# sports-buddy-app
-Sports Buddy App React Native code
+# sport-mate-app
+Sport Mate App React Native code
