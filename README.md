@@ -28,6 +28,11 @@ The Sport Mate Finder App is a React Native mobile application that provides a p
     <img src="screenshots/4.png" alt="Screenshot 4" width="400" height="873">
 </div>
 
+<div style="display: flex; justify-content: space-between;">
+    <img src="screenshots/5.png" alt="Screenshot 5" width="400" height="873">
+    <img src="screenshots/6.png" alt="Screenshot 6" width="400" height="873">
+</div>
+
 ## Demo
 
 See the Sports Partner Finder App in action:
