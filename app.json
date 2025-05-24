@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tinder-clone",
-    "slug": "tinder-clone",
+    "name": "My Sports Buddy",
+    "slug": "my-sports-buddy",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -19,15 +19,15 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "host.exp.exponent"
+      "bundleIdentifier": "com.<yourusername>.mysportsbuddy"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "host.exp.exponent"
-    }, 
+      "package": "com.<yourusername>.mysportsbuddy"
+    },
     "web": {
       "favicon": "./assets/favicon.png"
     },
