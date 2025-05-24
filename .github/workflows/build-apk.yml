@@ -17,7 +17,7 @@ jobs:
       - name: Install EAS CLI
         run: npm install -g eas-cli
       - name: Install Dependencies
-        run: npm install
+        run: npm install --legacy-peer-deps
       - name: Build APK
         run: eas build --platform android --profile preview --non-interactive
         env:
