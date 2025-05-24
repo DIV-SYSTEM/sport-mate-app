@@ -28,12 +28,6 @@ jobs:
       - name: Decode and save Android Keystore
         run: echo "${{ secrets.ANDROID_KEYSTORE_BASE64 }}" | base64 -d > my-release-key.jks
 
-      - name: Set up Android credentials for EAS
-        run: |
-          eas credentials --platform android --non-interactive
-        env:
-          EXPO_TOKEN: ${{ secrets.EXPO_TOKEN }}
-
       - name: Build APK
         run: eas build --platform android --profile preview --non-interactive --no-wait
         env:
