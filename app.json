@@ -10,7 +10,7 @@
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
-    }, 
+    },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
@@ -19,21 +19,21 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.<yourusername>.mysportsbuddy"
+      "bundleIdentifier": "com.divyanshu1901.mysportsbuddy"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.<yourusername>.mysportsbuddy"
+      "package": "com.divyanshu1901.mysportsbuddy"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "071d94fe-bc61-48a3-9748-5cc9e2d568be"
+        "projectId": "579ad6cf-142a-4aa5-b7ac-7e7032f21ae1"
       }
     }
   }
