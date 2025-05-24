@@ -1,4 +1,4 @@
-name: Build Sport Mate APK
+name: Build Sport Mate APK 
 on:
   push:
     branches: [main]
